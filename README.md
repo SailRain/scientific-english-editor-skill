@@ -2,7 +2,7 @@
 
 A simple skill for editing scientific and technical English written by non-native English speakers.
 
-This skill focuses on language only, such as grammar, academic tone, clarity, conciseness, and natural English expression. It does not check whether your formulas, experiments, figures, tables, or scientific conclusions are correct.
+This skill focuses on language only, such as grammar, academic tone, clarity, conciseness, and natural English (en-US) expression. It does not check whether your formulas, experiments, figures, tables, or scientific conclusions are correct.
 
 ## Recommended Input
 
