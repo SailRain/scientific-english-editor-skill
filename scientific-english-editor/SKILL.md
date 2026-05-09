@@ -261,7 +261,7 @@ When the user provides plain text:
 7. If the text appears to have been copied from a document and some formulas, figures, or tables are missing, do not reconstruct them.
 8. Leave missing areas blank or mark them simply, for example: `[Formula omitted]`, `[Figure omitted]`, or `[Table omitted]`.
 
-For example, if the original text contains `v_C = 1 * 10^-3`, preserve that plain-text style unless the user asks for LaTeX conversion.
+For example, if the original text contains `vC = 1 * 10^-3` or `v1 - v2`, preserve that plain-text style unless the user asks for LaTeX conversion.
 
 ## LaTeX Input
 
